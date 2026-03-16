@@ -2,4 +2,4 @@
 - 💻 Estudante de Desenvolvimento de Sistemas no Centro Paula Souza
 - 👩🏾‍💻 No momento comecei a aprender Python, HTML e CSS
 - 💼 Estou me preparando no momento, para migrar de area profissional
-- 📩 Contato: nicollipnogueira@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/nicolli-diniz-bb8b69178/) 
